@@ -1,6 +1,8 @@
 # Data-Stream-Anomaly-Detection
 
+A Screenshot from the Program:
+![image](https://github.com/user-attachments/assets/c452bb54-1bc1-410d-a2c3-ce507374eb44)
 
 
-
-![ezyZip](https://github.com/user-attachments/assets/4473201f-ddd2-4e07-93af-569930423d8e)
+The Video of the Program:
+https://github.com/user-attachments/assets/cba60d43-420d-46e7-85cd-37188ff2611e
